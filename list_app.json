@@ -3,7 +3,7 @@
       "name":"QMain",
       "version":"2.3",
       "icon":"qmain.png",
-      "link":"https://github.com/modunn/Qc/releases/download/1.0/QMain.rar"
+      "link":"https://github.com/modunn/Qc/releases/download/1.0/QMain.zip"
       },
 "qid":{
       "name":"Qid",
@@ -15,42 +15,42 @@
       "name":"QGroup",
       "version":"1",
       "icon":"qgroup.png",
-      "link":"https://github.com/modunn/Qc/releases/download/1.0/QGroup.rar"
+      "link":"https://github.com/modunn/Qc/releases/download/1.0/QGroup.zip"
       },  
 "qjoingroup":{
       "name":"QJoinGroup",
       "version":"1",
       "icon":"qjoingroup.png",
-      "link":"https://github.com/modunn/Qc/releases/download/1.0/QJoinGroup.rar"
+      "link":"https://github.com/modunn/Qc/releases/download/1.0/QJoinGroup.zip"
       },  
 "qpage":{
       "name":"Qpage",
       "version":"1",
       "icon":"qpage.png",
-      "link":"https://github.com/modunn/Qc/releases/download/1.0/QPage.rar"
+      "link":"https://github.com/modunn/Qc/releases/download/1.0/QPage.zip"
       },  
 "qproxy":{
       "name":"Qproxy",
       "version":"1",
       "icon":"qproxy.png",
-      "link":"https://github.com/modunn/Qc/releases/download/1.0/QProxy.exe"
+      "link":"https://github.com/modunn/Qc/releases/download/1.0/QProxy.zip"
       },  
 "qotp":{
       "name":"QOtp",
       "version":"1",
       "icon":"qotp.png",
-      "link":"https://github.com/modunn/Qc/releases/download/1.0/QOtp.exe"
+      "link":"https://github.com/modunn/Qc/releases/download/1.0/QOtp.zip"
       },  
 "qgmkb":{
       "name":"QGmkb",
       "version":"1",
       "icon":"qgmkb.png",
-      "link":"https://github.com/modunn/Qc/releases/download/1.0/QGmkb.rar"
+      "link":"https://github.com/modunn/Qc/releases/download/1.0/QGmkb.zip"
       }, 
 "qgmsh":{
       "name":"QGmsh",
       "version":"1",
       "icon":"qgmsh.png",
-      "link":"https://github.com/modunn/Qc/releases/download/1.0/QGmsh.rar"
+      "link":"https://github.com/modunn/Qc/releases/download/1.0/QGmsh.zip"
       } 
 }
