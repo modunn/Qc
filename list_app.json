@@ -1,7 +1,13 @@
 {
-  "qmain":{
+  "qmain bản mới":{
       "name":"QMain",
       "version":"2.3",
+      "icon":"qmain.png",
+      "link":"https://github.com/modunn/Qc/releases/download/1.0/QMain.zip"
+      },
+  "qauto_face_book bản cũ":{
+      "name":"QMain",
+      "version":"2.1",
       "icon":"qmain.png",
       "link":"https://github.com/modunn/Qc/releases/download/1.0/QMain.zip"
       },
